@@ -191,3 +191,11 @@ This project can be used to explore:
 -   Query profiling and basic performance experiments
 -   Building a web application with a Python API and browser-based
     frontend
+
+## ⭐ Support
+
+If you find this project useful:
+
+- ⭐ Star the repository.
+- 🍴 Fork the project.
+- 📢 Share feedback and suggestions.
